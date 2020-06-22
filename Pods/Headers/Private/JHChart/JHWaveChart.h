@@ -1,1 +1,0 @@
-../../../JHChart/JHChart/Classes/JHWaveChart.h
