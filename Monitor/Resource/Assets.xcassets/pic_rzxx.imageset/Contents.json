@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "_var_mobile_Containers_Data_Application_F7459171-D804-43C8-999D-6180919E8CA6_Documents_59a2144f9174e73d7bbc206f3ad231a9_Img_5d1b24510ce7f78213b6161a1af94bf8_747.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "_var_mobile_Containers_Data_Application_F7459171-D804-43C8-999D-6180919E8CA6_Documents_59a2144f9174e73d7bbc206f3ad231a9_Img_5d1b24510ce7f78213b6161a1af94bf8_747-1.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPVERSION</key>
+	<string>1.0.0</string>
+	<key>MAINNETPATH</key>
+	<string>http://www.ypbill.com:80/</string>
+	<key>MAINNETPATH - 2</key>
+	<string>http://115.28.85.97/</string>
+</dict>
+</plist>
